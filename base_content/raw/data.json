@@ -1,0 +1,95 @@
+[
+  {
+    "_type": "noticia",
+    "titulo": "Charlas abiertas a la comunidad",
+    "slug": {
+      "_type": "slug",
+      "current": "charlas-abiertas-a-la-comunidad"
+    },
+    "autor": "Dinamik Sport",
+    "fechaPublicacion": "2026-03-12T00:00:00Z",
+    "resumen": "En este espacio encontrarás las principales noticias, actividades y experiencias que forman parte del día a día de Dinamik Sport.",
+    "imagenPortada": {
+      "_type": "image",
+      "asset": {
+        "_type": "reference",
+        "_ref": "image-e3933e76c75be66feb67b59ed62828cdf9267936-1868x2825-jpg"
+      }
+    },
+    "contenido": [
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "marks": [],
+            "text": "Nuestro objetivo es mantenerte informado y acercarte a nuestro trabajo, mostrando cómo acompañamos a nuestros pacientes y deportistas más allá de la atención clínica. Periódicamente realizamos charlas abiertas a la comunidad para abordar temas de salud y bienestar."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_type": "noticia",
+    "titulo": "Talleres deportivos y educativos",
+    "slug": {
+      "_type": "slug",
+      "current": "talleres-deportivos-y-educativos"
+    },
+    "autor": "Dinamik Sport",
+    "fechaPublicacion": "2026-03-10T10:00:00Z",
+    "resumen": "Organizamos talleres prácticos tanto de ámbito deportivo como educativo para nuestros pacientes.",
+    "imagenPortada": {
+      "_type": "image",
+      "asset": {
+        "_type": "reference",
+        "_ref": "image-5ca3ee9ed861c7e5fd32d56ed7764cd3d38a0138-2252x1704-jpg"
+      }
+    },
+    "contenido": [
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "marks": [],
+            "text": "El aprendizaje continuo y la actividad física son fundamentales para una rehabilitación integral. Acompáñanos en nuestros talleres donde fusionamos teoría y práctica deportiva."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_type": "noticia",
+    "titulo": "Jornadas de evaluación y prevención",
+    "slug": {
+      "_type": "slug",
+      "current": "jornadas-evaluacion-prevencion"
+    },
+    "autor": "Dinamik Sport",
+    "fechaPublicacion": "2026-03-05T09:30:00Z",
+    "resumen": "Destinamos espacios especiales para la evaluación precoz y la prevención de lesiones.",
+    "imagenPortada": {
+      "_type": "image",
+      "asset": {
+        "_type": "reference",
+        "_ref": "image-aa5de526f956d66a7d951ad01984f9bf6250592a-1779x2607-jpg"
+      }
+    },
+    "contenido": [
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "marks": [],
+            "text": "La prevención es nuestra principal herramienta de salud. En nuestras jornadas de evaluación analizamos la mecánica corporal para prevenir posibles lesiones antes de que ocurran."
+          }
+        ]
+      }
+    ]
+  }
+]

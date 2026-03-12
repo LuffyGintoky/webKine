@@ -1,0 +1,119 @@
+[dotenv@17.3.1] injecting env (3) from .env -- tip: ÔÜÖ´©Å  override existing env vars with { override: true }
+­ƒôï Se procesar├ín 29 archivos...
+ÔÅ│ Subiendo Foto 1 aldo paz.jpg...
+Ô£à ┬í├ëxito! -> Archivo: Foto 1 aldo paz.jpg
+   ID: image-58aeabe05a7f850d7171e82629b6f1ea9df20deb-1080x1350-jpg
+   URL: https://cdn.sanity.io/images/ev9rlegz/production/58aeabe05a7f850d7171e82629b6f1ea9df20deb-1080x1350.jpg
+ÔÅ│ Subiendo FOTO 2  MIGUEL PAZ.jpg...
+Ô£à ┬í├ëxito! -> Archivo: FOTO 2  MIGUEL PAZ.jpg
+   ID: image-8751374837acc0f5b969dc5735d446b217895e18-1080x1350-jpg
+   URL: https://cdn.sanity.io/images/ev9rlegz/production/8751374837acc0f5b969dc5735d446b217895e18-1080x1350.jpg
+ÔÅ│ Subiendo foto equipamiento 1.jpeg...
+Ô£à ┬í├ëxito! -> Archivo: foto equipamiento 1.jpeg
+   ID: image-f7db5935fe2dcabc3ed3f08417dd78a2be6a80a0-1600x1200-jpg
+   URL: https://cdn.sanity.io/images/ev9rlegz/production/f7db5935fe2dcabc3ed3f08417dd78a2be6a80a0-1600x1200.jpg
+ÔÅ│ Subiendo foto equipamiento 3.jpeg...
+Ô£à ┬í├ëxito! -> Archivo: foto equipamiento 3.jpeg
+   ID: image-8497f35817f00d7dc98e180590f3ff8240ed52af-1600x1200-jpg
+   URL: https://cdn.sanity.io/images/ev9rlegz/production/8497f35817f00d7dc98e180590f3ff8240ed52af-1600x1200.jpg
+ÔÅ│ Subiendo foto equipamiento 4.jpeg...
+Ô£à ┬í├ëxito! -> Archivo: foto equipamiento 4.jpeg
+   ID: image-c9a7f46e4c5f00e96088cfe9116889f9b162447d-1600x1200-jpg
+   URL: https://cdn.sanity.io/images/ev9rlegz/production/c9a7f46e4c5f00e96088cfe9116889f9b162447d-1600x1200.jpg
+ÔÅ│ Subiendo M├íquinas.jpeg...
+Ô£à ┬í├ëxito! -> Archivo: M├íquinas.jpeg
+   ID: image-8531a10a650836e3946b08afb3e35f0697765ad0-1600x1200-jpg
+   URL: https://cdn.sanity.io/images/ev9rlegz/production/8531a10a650836e3946b08afb3e35f0697765ad0-1600x1200.jpg
+ÔÅ│ Subiendo patio equipamiento.jpeg...
+Ô£à ┬í├ëxito! -> Archivo: patio equipamiento.jpeg
+   ID: image-ddde7d96c71b8dd7806b1191a68973ba1198e5ef-1600x1200-jpg
+   URL: https://cdn.sanity.io/images/ev9rlegz/production/ddde7d96c71b8dd7806b1191a68973ba1198e5ef-1600x1200.jpg
+ÔÅ│ Subiendo terapia 25.jpg...
+Ô£à ┬í├ëxito! -> Archivo: terapia 25.jpg
+   ID: image-9b6aebbb4c2710067abbed09c90a3c68bf50f45f-1755x2754-jpg
+   URL: https://cdn.sanity.io/images/ev9rlegz/production/9b6aebbb4c2710067abbed09c90a3c68bf50f45f-1755x2754.jpg
+ÔÅ│ Subiendo charla 2.jpg...
+Ô£à ┬í├ëxito! -> Archivo: charla 2.jpg
+   ID: image-e3933e76c75be66feb67b59ed62828cdf9267936-1868x2825-jpg
+   URL: https://cdn.sanity.io/images/ev9rlegz/production/e3933e76c75be66feb67b59ed62828cdf9267936-1868x2825.jpg
+ÔÅ│ Subiendo charla 3.jpg...
+Ô£à ┬í├ëxito! -> Archivo: charla 3.jpg
+   ID: image-5ca3ee9ed861c7e5fd32d56ed7764cd3d38a0138-2252x1704-jpg
+   URL: https://cdn.sanity.io/images/ev9rlegz/production/5ca3ee9ed861c7e5fd32d56ed7764cd3d38a0138-2252x1704.jpg
+ÔÅ│ Subiendo charla.jpg...
+Ô£à ┬í├ëxito! -> Archivo: charla.jpg
+   ID: image-aa5de526f956d66a7d951ad01984f9bf6250592a-1779x2607-jpg
+   URL: https://cdn.sanity.io/images/ev9rlegz/production/aa5de526f956d66a7d951ad01984f9bf6250592a-1779x2607.jpg
+ÔÅ│ Subiendo foto entrenamiemnto 7.jpg...
+Ô£à ┬í├ëxito! -> Archivo: foto entrenamiemnto 7.jpg
+   ID: image-e0fbc4fc76746788ac0be6748d7920c6c63030c6-1762x2529-jpg
+   URL: https://cdn.sanity.io/images/ev9rlegz/production/e0fbc4fc76746788ac0be6748d7920c6c63030c6-1762x2529.jpg
+ÔÅ│ Subiendo terapia 22.jpg...
+Ô£à ┬í├ëxito! -> Archivo: terapia 22.jpg
+   ID: image-19051283b5fb0a599803d79f6ad0ef413282cd98-2252x1641-jpg
+   URL: https://cdn.sanity.io/images/ev9rlegz/production/19051283b5fb0a599803d79f6ad0ef413282cd98-2252x1641.jpg
+ÔÅ│ Subiendo entrenamiento 9.jpg...
+Ô£à ┬í├ëxito! -> Archivo: entrenamiento 9.jpg
+   ID: image-1fedcbe01776a1b97c398aed7cc61b6e51dc5213-2252x1685-jpg
+   URL: https://cdn.sanity.io/images/ev9rlegz/production/1fedcbe01776a1b97c398aed7cc61b6e51dc5213-2252x1685.jpg
+ÔÅ│ Subiendo FOTO 2 ejercicio.jpg...
+Ô£à ┬í├ëxito! -> Archivo: FOTO 2 ejercicio.jpg
+   ID: image-9e04f5f152ecb475dc22d189e73d86a4efa7f69d-1080x1350-jpg
+   URL: https://cdn.sanity.io/images/ev9rlegz/production/9e04f5f152ecb475dc22d189e73d86a4efa7f69d-1080x1350.jpg
+ÔÅ│ Subiendo foto frontis 1.jpg...
+Ô£à ┬í├ëxito! -> Archivo: foto frontis 1.jpg
+   ID: image-35fd07ce52db191ed4dc8fdd9b7750f58b6d2ca6-4000x1868-jpg
+   URL: https://cdn.sanity.io/images/ev9rlegz/production/35fd07ce52db191ed4dc8fdd9b7750f58b6d2ca6-4000x1868.jpg
+ÔÅ│ Subiendo foto tratamiento 3.jpeg...
+Ô£à ┬í├ëxito! -> Archivo: foto tratamiento 3.jpeg
+   ID: image-8fd2a74cc75d057eff36a64219103aab2dabfb12-1200x1600-jpg
+   URL: https://cdn.sanity.io/images/ev9rlegz/production/8fd2a74cc75d057eff36a64219103aab2dabfb12-1200x1600.jpg
+ÔÅ│ Subiendo LOGO.png...
+Ô£à ┬í├ëxito! -> Archivo: LOGO.png
+   ID: image-9c04746f1f29d57fadba3a00beda1db4a0f329fb-225x225-png
+   URL: https://cdn.sanity.io/images/ev9rlegz/production/9c04746f1f29d57fadba3a00beda1db4a0f329fb-225x225.png
+ÔÅ│ Subiendo terapia 24.jpg...
+Ô£à ┬í├ëxito! -> Archivo: terapia 24.jpg
+   ID: image-7fcea41abd02334966cb1e40d13f63139ca6695d-1817x2573-jpg
+   URL: https://cdn.sanity.io/images/ev9rlegz/production/7fcea41abd02334966cb1e40d13f63139ca6695d-1817x2573.jpg
+ÔÅ│ Subiendo foto entrenamiento 4.jpg...
+Ô£à ┬í├ëxito! -> Archivo: foto entrenamiento 4.jpg
+   ID: image-a8e13726ef7a5768a60b44bd50fb6776d2e5116d-1267x1918-jpg
+   URL: https://cdn.sanity.io/images/ev9rlegz/production/a8e13726ef7a5768a60b44bd50fb6776d2e5116d-1267x1918.jpg
+ÔÅ│ Subiendo foto entrenamiento 5.jpeg...
+Ô£à ┬í├ëxito! -> Archivo: foto entrenamiento 5.jpeg
+   ID: image-473550e060e2baa07c55f9fab4d8a9f9992b3c8b-995x687-jpg
+   URL: https://cdn.sanity.io/images/ev9rlegz/production/473550e060e2baa07c55f9fab4d8a9f9992b3c8b-995x687.jpg
+ÔÅ│ Subiendo foto tratamiento 2.heic...
+Ô£à ┬í├ëxito! -> Archivo: foto tratamiento 2.heic
+   ID: file-6b9cdfdb316a8191af1e90c266606165095619e9-heic
+   URL: https://cdn.sanity.io/files/ev9rlegz/production/6b9cdfdb316a8191af1e90c266606165095619e9.heic
+ÔÅ│ Subiendo foto tratamiento deportista alto rendimiento.jpeg...
+Ô£à ┬í├ëxito! -> Archivo: foto tratamiento deportista alto rendimiento.jpeg
+   ID: image-92aa804fd86f5a00b022bf048f2e56e483b7087c-1280x960-jpg
+   URL: https://cdn.sanity.io/images/ev9rlegz/production/92aa804fd86f5a00b022bf048f2e56e483b7087c-1280x960.jpg
+ÔÅ│ Subiendo foto entrenamiento 2.jpg...
+Ô£à ┬í├ëxito! -> Archivo: foto entrenamiento 2.jpg
+   ID: image-0c6264788e5ac1694b2fe69d63270bc80b63495e-2252x4000-jpg
+   URL: https://cdn.sanity.io/images/ev9rlegz/production/0c6264788e5ac1694b2fe69d63270bc80b63495e-2252x4000.jpg
+ÔÅ│ Subiendo foto entrenamiento 3.jpeg...
+Ô£à ┬í├ëxito! -> Archivo: foto entrenamiento 3.jpeg
+   ID: image-d65036a0333738da9efb1d92a7433e052eb319c1-1200x1600-jpg
+   URL: https://cdn.sanity.io/images/ev9rlegz/production/d65036a0333738da9efb1d92a7433e052eb319c1-1200x1600.jpg
+ÔÅ│ Subiendo foto entrenamiento 6.jpg...
+Ô£à ┬í├ëxito! -> Archivo: foto entrenamiento 6.jpg
+   ID: image-828710615470a964d2e4cc4af2d43fd5a27364ce-1619x2660-jpg
+   URL: https://cdn.sanity.io/images/ev9rlegz/production/828710615470a964d2e4cc4af2d43fd5a27364ce-1619x2660.jpg
+ÔÅ│ Subiendo foto equipamiento 5.jpeg...
+Ô£à ┬í├ëxito! -> Archivo: foto equipamiento 5.jpeg
+   ID: image-2733e1699fb51181f366fcb9db5806cfc8a14b8c-1600x1200-jpg
+   URL: https://cdn.sanity.io/images/ev9rlegz/production/2733e1699fb51181f366fcb9db5806cfc8a14b8c-1600x1200.jpg
+ÔÅ│ Subiendo terapia 22.jpg...
+Ô£à ┬í├ëxito! -> Archivo: terapia 22.jpg
+   ID: image-19051283b5fb0a599803d79f6ad0ef413282cd98-2252x1641-jpg
+   URL: https://cdn.sanity.io/images/ev9rlegz/production/19051283b5fb0a599803d79f6ad0ef413282cd98-2252x1641.jpg
+ÔÅ│ Subiendo terapia 23.jpg...
+Ô£à ┬í├ëxito! -> Archivo: terapia 23.jpg
+   ID: image-6bf529f6be0941a2aec155a333ccbe00c9a0708e-1613x2561-jpg
+   URL: https://cdn.sanity.io/images/ev9rlegz/production/6bf529f6be0941a2aec155a333ccbe00c9a0708e-1613x2561.jpg
+­ƒÜÇ Finalizado el proceso de subida masiva.
