@@ -1,0 +1,139 @@
+[
+  {
+    "_type": "noticia",
+    "_id": "news-1",
+    "titulo": "Charlas abiertas a la comunidad",
+    "slug": { "_type": "slug", "current": "charlas-abiertas-a-la-comunidad" },
+    "autor": "Dinamik Sport",
+    "fechaPublicacion": "2026-03-12T00:00:00Z",
+    "resumen": "En este espacio encontrarás las principales noticias, actividades y experiencias que forman parte del día a día de Dinamik Sport.",
+    "imagenPortada": { "_type": "image", "asset": { "_type": "reference", "_ref": "image-e3933e76c75be66feb67b59ed62828cdf9267936-1868x2825-jpg" } }
+  },
+  {
+    "_type": "noticia",
+    "_id": "news-2",
+    "titulo": "Talleres deportivos y educativos",
+    "slug": { "_type": "slug", "current": "talleres-deportivos-y-educativos" },
+    "autor": "Dinamik Sport",
+    "fechaPublicacion": "2026-03-10T10:00:00Z",
+    "resumen": "Organizamos talleres prácticos tanto de ámbito deportivo como educativo para nuestros pacientes.",
+    "imagenPortada": { "_type": "image", "asset": { "_type": "reference", "_ref": "image-5ca3ee9ed861c7e5fd32d56ed7764cd3d38a0138-2252x1704-jpg" } }
+  },
+  {
+    "_type": "noticia",
+    "_id": "news-3",
+    "titulo": "Jornadas de evaluación y prevención",
+    "slug": { "_type": "slug", "current": "jornadas-evaluacion-prevencion" },
+    "autor": "Dinamik Sport",
+    "fechaPublicacion": "2026-03-05T09:30:00Z",
+    "resumen": "Destinamos espacios especiales para la evaluación precoz y la prevención de lesiones.",
+    "imagenPortada": { "_type": "image", "asset": { "_type": "reference", "_ref": "image-aa5de526f956d66a7d951ad01984f9bf6250592a-1779x2607-jpg" } }
+  },
+  {
+    "_type": "equipo",
+    "_id": "team-aldo",
+    "nombre": "Aldo Paz",
+    "cargo": "Kinesiólogo / Fundador",
+    "biografia": "Dinamik Sport nace en 2024 de la visión del kinesiólogo Aldo Paz, con el sueño de transformar la rehabilitación en Antofagasta.",
+    "foto": { "_type": "image", "asset": { "_type": "reference", "_ref": "image-58aeabe05a7f850d7171e82629b6f1ea9df20deb-1080x1350-jpg" } }
+  },
+  {
+    "_type": "equipo",
+    "_id": "team-miguel",
+    "nombre": "Miguel Paz",
+    "cargo": "Kinesiólogo / Especialista",
+    "biografia": "Profesional altamente capacitado y alineado con nuestros valores de calidez humana y excelencia.",
+    "foto": { "_type": "image", "asset": { "_type": "reference", "_ref": "image-8751374837acc0f5b969dc5735d446b217895e18-1080x1350-jpg" } }
+  },
+  {
+    "_type": "servicio",
+    "_id": "service-kinesiologia",
+    "titulo": "Kinesiología",
+    "descripcion": "Rehabilitación integral y personalizada en rehabilitación física, fusionando técnicas avanzadas con un enfoque humano.",
+    "items": [
+      "Rehabilitación músculo-esquelética",
+      "Neuromodulación ecoguiada",
+      "Biotrajes de electroestimulación",
+      "Gimnasia médica"
+    ],
+    "icono": { "_type": "image", "asset": { "_type": "reference", "_ref": "image-0c6264788e5ac1694b2fe69d63270bc80b63495e-2252x4000-jpg" } }
+  },
+  {
+    "_type": "servicio",
+    "_id": "service-entrenamiento",
+    "titulo": "Entrenamiento Personalizado",
+    "descripcion": "Entrenamientos diseñados para alcanzar tu máximo potencial de bienestar físico.",
+    "items": [
+      "Evaluación de saltabilidad",
+      "Evaluación de la fuerza",
+      "Evaluación postural",
+      "Entrenamientos de 2 a 5 veces por semana"
+    ],
+    "icono": { "_type": "image", "asset": { "_type": "reference", "_ref": "image-d65036a0333738da9efb1d92a7433e052eb319c1-1200x1600-jpg" } }
+  },
+  {
+    "_type": "servicio",
+    "_id": "service-estetica",
+    "titulo": "Estética",
+    "descripcion": "Tratamientos estéticos avanzados para complementar tu bienestar.",
+    "items": [
+      "Lipolaser ultrafrecuencia",
+      "Cavitación y radiofrecuencia",
+      "Radiofrecuencia facial"
+    ],
+    "icono": { "_type": "image", "asset": { "_type": "reference", "_ref": "image-828710615470a964d2e4cc4af2d43fd5a27364ce-1619x2660-jpg" } }
+  },
+  {
+    "_type": "servicio",
+    "_id": "service-psicologia",
+    "titulo": "Psicología",
+    "descripcion": "Acompañamiento en el proceso de recuperación desde un enfoque clínico y deportivo.",
+    "items": [
+      "Psicología Clínica",
+      "Psicología Deportiva"
+    ],
+    "icono": { "_type": "image", "asset": { "_type": "reference", "_ref": "image-2733e1699fb51181f366fcb9db5806cfc8a14b8c-1600x1200-jpg" } }
+  },
+  {
+    "_type": "cliente",
+    "_id": "client-1",
+    "nombre": "Paciente Dinamik Sport",
+    "testimonio": "Gran vocación y excelente trato profesional. Nos comprometemos profundamente en cada caso para llegar a un mejor resultado.",
+    "foto": { "_type": "image", "asset": { "_type": "reference", "_ref": "image-19051283b5fb0a599803d79f6ad0ef413282cd98-2252x1641-jpg" } }
+  },
+  {
+    "_type": "cliente",
+    "_id": "client-2",
+    "nombre": "Deportista Local",
+    "testimonio": "Logré volver al deporte de alto rendimiento en tiempo récord gracias a la tecnología innovadora.",
+    "foto": { "_type": "image", "asset": { "_type": "reference", "_ref": "image-e0fbc4fc76746788ac0be6748d7920c6c63030c6-1762x2529-jpg" } }
+  },
+  {
+    "_type": "instalacion",
+    "_id": "facility-1",
+    "titulo": "Área de Máquinas",
+    "descripcion": "Equipamiento moderno especializado para la rehabilitación y el reintegro deportivo.",
+    "foto": { "_type": "image", "asset": { "_type": "reference", "_ref": "image-8531a10a650836e3946b08afb3e35f0697765ad0-1600x1200-jpg" } }
+  },
+  {
+    "_type": "instalacion",
+    "_id": "facility-2",
+    "titulo": "Gimnasio Principal",
+    "descripcion": "Espacios diseñados para acompañar cada proceso con seguridad y comodidad.",
+    "foto": { "_type": "image", "asset": { "_type": "reference", "_ref": "image-f7db5935fe2dcabc3ed3f08417dd78a2be6a80a0-1600x1200-jpg" } }
+  },
+  {
+    "_type": "instalacion",
+    "_id": "facility-3",
+    "titulo": "Patio de Entrenamiento",
+    "descripcion": "Espacio al aire libre para ejercicios de reintegro deportivo.",
+    "foto": { "_type": "image", "asset": { "_type": "reference", "_ref": "image-ddde7d96c71b8dd7806b1191a68973ba1198e5ef-1600x1200-jpg" } }
+  },
+  {
+    "_type": "instalacion",
+    "_id": "facility-4",
+    "titulo": "Box de Terapia",
+    "descripcion": "Ambiente privado y acogedor alejado de la frialdad médica tradicional.",
+    "foto": { "_type": "image", "asset": { "_type": "reference", "_ref": "image-9b6aebbb4c2710067abbed09c90a3c68bf50f45f-1755x2754-jpg" } }
+  }
+]

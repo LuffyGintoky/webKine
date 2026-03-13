@@ -19,6 +19,7 @@ export function Footer() {
               <li><Link href="/facilities" className="hover:text-primary transition-colors">Instalaciones</Link></li>
               <li><Link href="/clients" className="hover:text-primary transition-colors">Clientes</Link></li>
               <li><Link href="/news" className="hover:text-primary transition-colors">Noticias</Link></li>
+              <li><Link href="/reintegro" className="hover:text-primary transition-colors">Reintegro Deportivo</Link></li>
             </ul>
           </div>
           <div>

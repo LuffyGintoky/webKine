@@ -4,11 +4,10 @@ import { HeroSection } from '../components/ui/HeroSection';
 import { Card } from '../components/ui/Card';
 import Image from 'next/image';
 import Link from 'next/link';
-import { motion } from 'framer-motion';
-
-const fadeInUp = {
-  hidden: { opacity: 0, y: 40 },
-  visible: { opacity: 1, y: 0, transition: { duration: 0.6 } }
+import { motion, Variants } from 'framer-motion';
+const fadeIn: Variants = {
+  hidden: { opacity: 0, scale: 0.95 },
+  visible: { opacity: 1, scale: 1, transition: { duration: 0.8, ease: "easeOut" } }
 };
 
 export default function Home() {
@@ -27,7 +26,7 @@ export default function Home() {
         initial="hidden"
         whileInView="visible"
         viewport={{ once: true, margin: "-100px" }}
-        variants={fadeInUp}
+        variants={fadeIn}
         className="py-20 bg-black"
       >
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
@@ -64,18 +63,18 @@ export default function Home() {
         initial="hidden"
         whileInView="visible"
         viewport={{ once: true, margin: "-100px" }}
-        variants={fadeInUp}
+        variants={fadeIn}
         className="relative w-full py-32 lg:py-48"
       >
         <div className="absolute inset-0 z-0">
           <Image src="/images/landin3.avif" alt="Propósito" fill className="object-cover" />
           <div className="absolute inset-0 bg-black/85" />
         </div>
-        
+
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl relative z-10">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6">Nuestro Propósito</h2>
-            <p className="text-gray-400 max-w-3xl mx-auto text-xl">
+            <h2 className="text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 drop-shadow-md">Nuestro Propósito</h2>
+            <p className="text-white drop-shadow-md font-medium max-w-3xl mx-auto text-xl">
               Nos mueve la excelencia y el enfoque humano en cada uno de nuestros tratamientos.
             </p>
           </div>
@@ -105,8 +104,8 @@ export default function Home() {
         initial="hidden"
         whileInView="visible"
         viewport={{ once: true, margin: "-100px" }}
-        variants={fadeInUp}
-        className="w-full bg-black border-border border-t"
+        variants={fadeIn}
+        className="w-full bg-black"
       >
         <div className="grid grid-cols-1 lg:grid-cols-2">
           {/* Image block full bleed */}
@@ -144,8 +143,8 @@ export default function Home() {
         initial="hidden"
         whileInView="visible"
         viewport={{ once: true, margin: "-100px" }}
-        variants={fadeInUp}
-        className="py-32 bg-[#050505] border-t border-border"
+        variants={fadeIn}
+        className="py-32 bg-[#050505]"
       >
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl flex flex-col items-center text-center">
           <h2 className="text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6">Confían en Dinamik Sport</h2>
@@ -154,19 +153,19 @@ export default function Home() {
           </p>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 w-full max-w-5xl mb-12">
-             <div className="relative h-[400px] overflow-hidden rounded-2xl group border border-white/10">
-              <Image 
-                src="/images/cliente-1.jpg" 
-                alt="Paciente de Entrenamiento" 
+            <div className="relative h-[400px] overflow-hidden rounded-2xl group border border-white/10">
+              <Image
+                src="/images/cliente-1.jpg"
+                alt="Paciente de Entrenamiento"
                 fill
                 className="object-cover transition-transform duration-1000 group-hover:scale-110 grayscale group-hover:grayscale-0"
               />
               <div className="absolute inset-0 bg-black/40 group-hover:bg-black/10 transition-colors duration-500" />
             </div>
             <div className="relative h-[400px] overflow-hidden rounded-2xl group border border-white/10">
-              <Image 
-                src="/images/cliente-2.jpg" 
-                alt="Paciente en Kinesiología" 
+              <Image
+                src="/images/cliente-2.jpg"
+                alt="Paciente en Kinesiología"
                 fill
                 className="object-cover transition-transform duration-1000 group-hover:scale-110 grayscale group-hover:grayscale-0"
               />

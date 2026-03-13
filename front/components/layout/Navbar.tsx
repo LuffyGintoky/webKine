@@ -26,12 +26,13 @@ export function Navbar() {
               />
             </Link>
           </div>
-          <nav className="hidden md:flex items-center gap-8 text-sm font-medium">
+          <nav className="hidden md:flex items-center gap-6 text-sm font-medium">
             <Link href="/" className="transition-colors hover:text-white text-foreground/80">Inicio</Link>
             <Link href="/about" className="transition-colors hover:text-white text-foreground/80">Nosotros</Link>
             <Link href="/services" className="transition-colors hover:text-white text-foreground/80">Servicios</Link>
             <Link href="/facilities" className="transition-colors hover:text-white text-foreground/80">Instalaciones</Link>
             <Link href="/clients" className="transition-colors hover:text-white text-foreground/80">Clientes</Link>
+            <Link href="/reintegro" className="transition-colors hover:text-white text-foreground/80">Reintegro</Link>
             <Link href="/news" className="transition-colors hover:text-white text-foreground/80">Noticias</Link>
             <Link href="/contact" className="transition-colors hover:text-white text-foreground/80">Contacto</Link>
           </nav>

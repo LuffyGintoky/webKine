@@ -1,0 +1,11 @@
+[dotenv@17.3.1] injecting env (3) from .env -- tip: ÔÜÖ´©Å  enable debug logging with { debug: true }
+ÔÅ│ Leyendo e inyectando datos desde data.json...
+­ƒôï Se procesar├ín 3 documentos...
+ÔØî Error al procesar documento de tipo noticia: transaction failed: Insufficient permissions; permission "create" required:
+- Insufficient permissions; permission "create" required
+ÔØî Error al procesar documento de tipo noticia: transaction failed: Insufficient permissions; permission "create" required:
+- Insufficient permissions; permission "create" required
+ÔØî Error al procesar documento de tipo noticia: transaction failed: Insufficient permissions; permission "create" required:
+- Insufficient permissions; permission "create" required
+
+­ƒÜÇ Finalizado el proceso: 0 exitosos, 3 errores.

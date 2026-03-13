@@ -1,6 +1,6 @@
 # Dinamik Sport
 
-## Quiénes somos
+## SECCION: Quiénes somos
 
 ### Nuestra Historia
 Dinamik Sport nace en 2024 de la visión del kinesiólogo Aldo Paz, con el sueño de transformar la rehabilitación en Antofagasta. Inspirado por modelos de bienestar internacional que integran comunidad y relajación, creamos un espacio que se aleja de la frialdad médica tradicional para ofrecer un entorno moderno, humano y dinámico.
@@ -29,12 +29,14 @@ Te damos las herramientas necesarias para tu recuperación.
 
 ---
 
-## Equipo
+## SECCION: Equipo
 La calidad y efectividad de nuestra atención corresponde a un equipo de profesionales altamente capacitados y alineados con nuestros valores, quienes trabajan de manera coordinada para alcanzar el éxito en cada proceso de rehabilitación y entrenamiento de nuestros usuarios.
+
+****ANADIR FOTOS Y NOMBRE DEL EQUIPO****
 
 ---
 
-## Servicios
+## SECCION: Servicios
 
 ### Kinesiología
 - Rehabilitación músculo-esquelética  
@@ -62,24 +64,22 @@ Incluye:
 - Podología  
 - Medicina general y deportiva  
 
----
 
-## Reintegro Deportivo
+
+## SECCION: Reintegro Deportivo
 En Dinamik Sport reafirmamos nuestro compromiso con el deporte y el talento regional mediante nuestros servicios. Desde el centro estamos comprometidos con los deportistas que representan a nuestro país y a la Perla del Norte.
 
----
 
-## Instalaciones y Equipamiento
+## SECCION: Instalaciones y Equipamiento
 Espacios aptos y equipamiento moderno especializado para la rehabilitación y el reintegro deportivo, diseñados para acompañar cada proceso con seguridad, comodidad y altos estándares profesionales.
 
----
 
-## Nuestros Clientes
+## SECCION: Nuestros Clientes
 Imagen de los pacientes junto a los profesionales y testimonios donde relatan su experiencia en el centro.
 
 ---
 
-## Noticias
+## SECCION:Noticias
 En este espacio encontrarás las principales noticias, actividades y experiencias que forman parte del día a día de Dinamik Sport.
 
 Nuestro objetivo es mantenerte informado y acercarte a nuestro trabajo, mostrando cómo acompañamos a nuestros pacientes y deportistas más allá de la atención clínica.
@@ -93,7 +93,7 @@ Nuestro objetivo es mantenerte informado y acercarte a nuestro trabajo, mostrand
 
 ---
 
-## Redes Sociales
+## FOOTER: Redes Sociales
 Síguenos para conocer nuestros servicios, testimonios y actividades comunitarias.
 
 **Instagram**  
@@ -106,7 +106,7 @@ https://www.facebook.com/p/Dinamik-Sport-Antofagasta-61557078223481/
 
 ---
 
-## Contacto
+## SECCION: Contacto
 
 ### Agenda tu atención en Dinamik Sport
 Estamos listos para acompañarte en tu proceso de rehabilitación o reintegro deportivo.  

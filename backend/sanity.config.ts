@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'web-template-api',
 
-  projectId: 'ev9rlegz',
+  projectId: 'gfolfm5q',
   dataset: 'production',
 
   plugins: [structureTool(), visionTool()],

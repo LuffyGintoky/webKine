@@ -1,0 +1,79 @@
+[dotenv@17.3.1] injecting env (3) from .env -- tip: ­ƒöÉ prevent committing .env to code: https://dotenvx.com/precommit
+­ƒôï Se procesar├ín 19 archivos...
+ÔÅ│ Subiendo Foto 1 aldo paz.jpg...
+Ô£à ┬í├ëxito! -> Archivo: Foto 1 aldo paz.jpg
+   ID: image-58aeabe05a7f850d7171e82629b6f1ea9df20deb-1080x1350-jpg
+   URL: https://cdn.sanity.io/images/gfolfm5q/production/58aeabe05a7f850d7171e82629b6f1ea9df20deb-1080x1350.jpg
+ÔÅ│ Subiendo FOTO 2  MIGUEL PAZ.jpg...
+Ô£à ┬í├ëxito! -> Archivo: FOTO 2  MIGUEL PAZ.jpg
+   ID: image-8751374837acc0f5b969dc5735d446b217895e18-1080x1350-jpg
+   URL: https://cdn.sanity.io/images/gfolfm5q/production/8751374837acc0f5b969dc5735d446b217895e18-1080x1350.jpg
+ÔÅ│ Subiendo M├íquinas.jpeg...
+Ô£à ┬í├ëxito! -> Archivo: M├íquinas.jpeg
+   ID: image-8531a10a650836e3946b08afb3e35f0697765ad0-1600x1200-jpg
+   URL: https://cdn.sanity.io/images/gfolfm5q/production/8531a10a650836e3946b08afb3e35f0697765ad0-1600x1200.jpg
+ÔÅ│ Subiendo foto equipamiento 1.jpeg...
+Ô£à ┬í├ëxito! -> Archivo: foto equipamiento 1.jpeg
+   ID: image-f7db5935fe2dcabc3ed3f08417dd78a2be6a80a0-1600x1200-jpg
+   URL: https://cdn.sanity.io/images/gfolfm5q/production/f7db5935fe2dcabc3ed3f08417dd78a2be6a80a0-1600x1200.jpg
+ÔÅ│ Subiendo foto equipamiento 3.jpeg...
+Ô£à ┬í├ëxito! -> Archivo: foto equipamiento 3.jpeg
+   ID: image-8497f35817f00d7dc98e180590f3ff8240ed52af-1600x1200-jpg
+   URL: https://cdn.sanity.io/images/gfolfm5q/production/8497f35817f00d7dc98e180590f3ff8240ed52af-1600x1200.jpg
+ÔÅ│ Subiendo foto equipamiento 4.jpeg...
+Ô£à ┬í├ëxito! -> Archivo: foto equipamiento 4.jpeg
+   ID: image-c9a7f46e4c5f00e96088cfe9116889f9b162447d-1600x1200-jpg
+   URL: https://cdn.sanity.io/images/gfolfm5q/production/c9a7f46e4c5f00e96088cfe9116889f9b162447d-1600x1200.jpg
+ÔÅ│ Subiendo patio equipamiento.jpeg...
+Ô£à ┬í├ëxito! -> Archivo: patio equipamiento.jpeg
+   ID: image-ddde7d96c71b8dd7806b1191a68973ba1198e5ef-1600x1200-jpg
+   URL: https://cdn.sanity.io/images/gfolfm5q/production/ddde7d96c71b8dd7806b1191a68973ba1198e5ef-1600x1200.jpg
+ÔÅ│ Subiendo terapia 25.jpg...
+Ô£à ┬í├ëxito! -> Archivo: terapia 25.jpg
+   ID: image-9b6aebbb4c2710067abbed09c90a3c68bf50f45f-1755x2754-jpg
+   URL: https://cdn.sanity.io/images/gfolfm5q/production/9b6aebbb4c2710067abbed09c90a3c68bf50f45f-1755x2754.jpg
+ÔÅ│ Subiendo foto entrenamiemnto 7.jpg...
+Ô£à ┬í├ëxito! -> Archivo: foto entrenamiemnto 7.jpg
+   ID: image-e0fbc4fc76746788ac0be6748d7920c6c63030c6-1762x2529-jpg
+   URL: https://cdn.sanity.io/images/gfolfm5q/production/e0fbc4fc76746788ac0be6748d7920c6c63030c6-1762x2529.jpg
+ÔÅ│ Subiendo terapia 22.jpg...
+Ô£à ┬í├ëxito! -> Archivo: terapia 22.jpg
+   ID: image-19051283b5fb0a599803d79f6ad0ef413282cd98-2252x1641-jpg
+   URL: https://cdn.sanity.io/images/gfolfm5q/production/19051283b5fb0a599803d79f6ad0ef413282cd98-2252x1641.jpg
+ÔÅ│ Subiendo charla.jpg...
+Ô£à ┬í├ëxito! -> Archivo: charla.jpg
+   ID: image-aa5de526f956d66a7d951ad01984f9bf6250592a-1779x2607-jpg
+   URL: https://cdn.sanity.io/images/gfolfm5q/production/aa5de526f956d66a7d951ad01984f9bf6250592a-1779x2607.jpg
+ÔÅ│ Subiendo charla 2.jpg...
+Ô£à ┬í├ëxito! -> Archivo: charla 2.jpg
+   ID: image-e3933e76c75be66feb67b59ed62828cdf9267936-1868x2825-jpg
+   URL: https://cdn.sanity.io/images/gfolfm5q/production/e3933e76c75be66feb67b59ed62828cdf9267936-1868x2825.jpg
+ÔÅ│ Subiendo charla 3.jpg...
+Ô£à ┬í├ëxito! -> Archivo: charla 3.jpg
+   ID: image-5ca3ee9ed861c7e5fd32d56ed7764cd3d38a0138-2252x1704-jpg
+   URL: https://cdn.sanity.io/images/gfolfm5q/production/5ca3ee9ed861c7e5fd32d56ed7764cd3d38a0138-2252x1704.jpg
+ÔÅ│ Subiendo foto entrenamiento 2.jpg...
+Ô£à ┬í├ëxito! -> Archivo: foto entrenamiento 2.jpg
+   ID: image-0c6264788e5ac1694b2fe69d63270bc80b63495e-2252x4000-jpg
+   URL: https://cdn.sanity.io/images/gfolfm5q/production/0c6264788e5ac1694b2fe69d63270bc80b63495e-2252x4000.jpg
+ÔÅ│ Subiendo foto entrenamiento 3.jpeg...
+Ô£à ┬í├ëxito! -> Archivo: foto entrenamiento 3.jpeg
+   ID: image-d65036a0333738da9efb1d92a7433e052eb319c1-1200x1600-jpg
+   URL: https://cdn.sanity.io/images/gfolfm5q/production/d65036a0333738da9efb1d92a7433e052eb319c1-1200x1600.jpg
+ÔÅ│ Subiendo foto entrenamiento 6.jpg...
+Ô£à ┬í├ëxito! -> Archivo: foto entrenamiento 6.jpg
+   ID: image-828710615470a964d2e4cc4af2d43fd5a27364ce-1619x2660-jpg
+   URL: https://cdn.sanity.io/images/gfolfm5q/production/828710615470a964d2e4cc4af2d43fd5a27364ce-1619x2660.jpg
+ÔÅ│ Subiendo foto equipamiento 5.jpeg...
+Ô£à ┬í├ëxito! -> Archivo: foto equipamiento 5.jpeg
+   ID: image-2733e1699fb51181f366fcb9db5806cfc8a14b8c-1600x1200-jpg
+   URL: https://cdn.sanity.io/images/gfolfm5q/production/2733e1699fb51181f366fcb9db5806cfc8a14b8c-1600x1200.jpg
+ÔÅ│ Subiendo terapia 22.jpg...
+Ô£à ┬í├ëxito! -> Archivo: terapia 22.jpg
+   ID: image-19051283b5fb0a599803d79f6ad0ef413282cd98-2252x1641-jpg
+   URL: https://cdn.sanity.io/images/gfolfm5q/production/19051283b5fb0a599803d79f6ad0ef413282cd98-2252x1641.jpg
+ÔÅ│ Subiendo terapia 23.jpg...
+Ô£à ┬í├ëxito! -> Archivo: terapia 23.jpg
+   ID: image-6bf529f6be0941a2aec155a333ccbe00c9a0708e-1613x2561-jpg
+   URL: https://cdn.sanity.io/images/gfolfm5q/production/6bf529f6be0941a2aec155a333ccbe00c9a0708e-1613x2561.jpg
+­ƒÜÇ Finalizado el proceso de subida masiva.

@@ -1,0 +1,108 @@
+[
+  {
+    "_type": "noticia",
+    "_id": "news-1",
+    "titulo": "Charlas abiertas a la comunidad: Educación y Bienestar",
+    "slug": { "_type": "slug", "current": "charlas-abiertas-a-la-comunidad" },
+    "autor": "Dinamik Sport",
+    "fechaPublicacion": "2026-03-12T00:00:00Z",
+    "resumen": "En Dinamik Sport creemos que la salud comienza con la información. Descubre cómo nuestras charlas están impactando a la comunidad de Antofagasta.",
+    "imagenPortada": { "_type": "image", "asset": { "_type": "reference", "_ref": "image-e3933e76c75be66feb67b59ed62828cdf9267936-1868x2825-jpg" } },
+    "contenido": [
+      {
+        "_type": "block",
+        "style": "h3",
+        "children": [{ "_type": "span", "text": "Más que una clínica, un espacio de aprendizaje" }]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [{ "_type": "span", "text": "Nuestro compromiso con Antofagasta va más allá de las paredes de nuestras salas de tratamiento. Entendemos que un paciente informado es un paciente que se recupera mejor y previene futuras lesiones. Por ello, hemos lanzado un ciclo de charlas mensuales gratuitas." }]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [{ "_type": "span", "text": "En estas sesiones abordamos temas cruciales como la higiene postural en el trabajo, la importancia de la movilidad en el adulto mayor y mitos comunes sobre el dolor crónico. La participación ha sido increíble, llenando nuestra sala de conferencias con vecinos y deportistas locales interesados en mejorar su calidad de vida." }]
+      },
+      {
+        "_type": "block",
+        "style": "h4",
+        "children": [{ "_type": "span", "text": "¿Qué esperar de nuestra próxima charla?" }]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [{ "_type": "span", "text": "Seguiremos explorando técnicas de auto-cuidado y ejercicios sencillos que pueden realizarse en casa. ¡Te invitamos a estar atento a nuestras redes sociales para la próxima fecha!" }]
+      }
+    ]
+  },
+  {
+    "_type": "noticia",
+    "_id": "news-2",
+    "titulo": "Talleres deportivos y educativos: Potenciando al Atleta",
+    "slug": { "_type": "slug", "current": "talleres-deportivos-y-educativos" },
+    "autor": "Dinamik Sport",
+    "fechaPublicacion": "2026-03-10T10:00:00Z",
+    "resumen": "La técnica es tan importante como la fuerza. Nuestros talleres prácticos fusionan lo mejor de la teoría kinésica con el entrenamiento de alto rendimiento.",
+    "imagenPortada": { "_type": "image", "asset": { "_type": "reference", "_ref": "image-5ca3ee9ed861c7e5fd32d56ed7764cd3d38a0138-2252x1704-jpg" } },
+    "contenido": [
+      {
+        "_type": "block",
+        "style": "h3",
+        "children": [{ "_type": "span", "text": "Innovación en el entrenamiento" }]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [{ "_type": "span", "text": "Los talleres de Dinamik Sport están diseñados para romper la barrera entre la rehabilitación y el gimnasio. En nuestras sesiones de 'Optimización del Movimiento', los atletas aprenden a identificar sus propias compensaciones musculares y cómo corregirlas mediante ejercicios específicos de estabilización." }]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [{ "_type": "span", "text": "Contamos con el uso de biotrajes de electroestimulación y sistemas de biofeedback en tiempo real, lo que permite a los asistentes 'visualizar' su activación muscular. Estos talleres no solo son educativos, sino profundamente transformadores para la carrera de cualquier deportista." }]
+      },
+      {
+        "_type": "block",
+        "style": "blockquote",
+        "children": [{ "_type": "span", "text": "'La educación es el motor del rendimiento. Un deportista que entiende por qué se mueve así, es un deportista que no se lesiona.' - Equipo Kinesiológico Dinamik." }]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [{ "_type": "span", "text": "Únete a nuestro próximo taller de Fuerza Reactiva y descubre cómo mejorar tu potencia de salida de manera segura." }]
+      }
+    ]
+  },
+  {
+    "_type": "noticia",
+    "_id": "news-3",
+    "titulo": "Jornadas de Evaluación y Prevención: Evita el Quirófano",
+    "slug": { "_type": "slug", "current": "jornadas-evaluacion-prevencion" },
+    "autor": "Dinamik Sport",
+    "fechaPublicacion": "2026-03-05T09:30:00Z",
+    "resumen": "La prevención precoz es la clave para una vida activa a largo plazo. Conoce nuestro protocolo de evaluación 360.",
+    "imagenPortada": { "_type": "image", "asset": { "_type": "reference", "_ref": "image-aa5de526f956d66a7d951ad01984f9bf6250592a-1779x2607-jpg" } },
+    "contenido": [
+      {
+        "_type": "block",
+        "style": "h3",
+        "children": [{ "_type": "span", "text": "Detección temprana y tecnología" }]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [{ "_type": "span", "text": "En Dinamik Sport, utilizamos evaluaciones biomecánicas de última generación para detectar desbalances antes de que se conviertan en dolor. Nuestras Jornadas de Prevención están enfocadas tanto en trabajadores con movimientos repetitivos como en entusiastas del deporte." }]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [{ "_type": "span", "text": "Durante la jornada, cada participante pasa por una serie de estaciones: evaluación de la movilidad articular, test de fuerza isométrica, y análisis de la marcha por video. Al final, entregamos un reporte detallado con recomendaciones personalizadas de ejercicios y ajustes ergonómicos." }]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [{ "_type": "span", "text": "Nuestro objetivo es empoderar a las personas para que tomen el control de su salud física. No esperes a que el dolor aparezca para visitarnos; la mejor inversión es la prevención." }]
+      }
+    ]
+  }
+]
