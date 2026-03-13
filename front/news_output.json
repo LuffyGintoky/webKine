@@ -1,0 +1,204 @@
+[dotenv@17.3.1] injecting env (3) from .env -- tip: ­ƒñû agentic secret storage: https://dotenvx.com/as2
+[
+  {
+    "contenido": [
+      {
+        "_key": "4yna7mbu1",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "jptul3xuh",
+            "_type": "span",
+            "marks": [],
+            "text": "La prevenci├│n es nuestra principal herramienta de salud. En nuestras jornadas de evaluaci├│n analizamos la mec├ínica corporal para prevenir posibles lesiones antes de que ocurran."
+          }
+        ],
+        "style": "normal"
+      }
+    ],
+    "titulo": "Jornadas de evaluaci├│n y prevenci├│n"
+  },
+  {
+    "contenido": [
+      {
+        "_key": "mf6sq7zgp",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "znk275g28",
+            "_type": "span",
+            "text": "M├ís que una cl├¡nica, un espacio de aprendizaje"
+          }
+        ],
+        "style": "h3"
+      },
+      {
+        "_key": "s56a4apj6",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "qo2a23aok",
+            "_type": "span",
+            "text": "Nuestro compromiso con Antofagasta va m├ís all├í de las paredes de nuestras salas de tratamiento. Entendemos que un paciente informado es un paciente que se recupera mejor y previene futuras lesiones. Por ello, hemos lanzado un ciclo de charlas mensuales gratuitas."
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "9w385a8ls",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "rq9sg94q8",
+            "_type": "span",
+            "text": "En estas sesiones abordamos temas cruciales como la higiene postural en el trabajo, la importancia de la movilidad en el adulto mayor y mitos comunes sobre el dolor cr├│nico. La participaci├│n ha sido incre├¡ble, llenando nuestra sala de conferencias con vecinos y deportistas locales interesados en mejorar su calidad de vida."
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "2xq5ntv43",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "1km9xkc2r",
+            "_type": "span",
+            "text": "┬┐Qu├® esperar de nuestra pr├│xima charla?"
+          }
+        ],
+        "style": "h4"
+      },
+      {
+        "_key": "c6bpkihdx",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "ofh5jk3dc",
+            "_type": "span",
+            "text": "Seguiremos explorando t├®cnicas de auto-cuidado y ejercicios sencillos que pueden realizarse en casa. ┬íTe invitamos a estar atento a nuestras redes sociales para la pr├│xima fecha!"
+          }
+        ],
+        "style": "normal"
+      }
+    ],
+    "titulo": "Charlas abiertas a la comunidad: Educaci├│n y Bienestar"
+  },
+  {
+    "contenido": [
+      {
+        "_key": "wp86egmn4",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mz2xjqsql",
+            "_type": "span",
+            "text": "Innovaci├│n en el entrenamiento"
+          }
+        ],
+        "style": "h3"
+      },
+      {
+        "_key": "63jw79fjf",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "ulorfk2r2",
+            "_type": "span",
+            "text": "Los talleres de Dinamik Sport est├ín dise├▒ados para romper la barrera entre la rehabilitaci├│n y el gimnasio. En nuestras sesiones de 'Optimizaci├│n del Movimiento', los atletas aprenden a identificar sus propias compensaciones musculares y c├│mo corregirlas mediante ejercicios espec├¡ficos de estabilizaci├│n."
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "xmwku5hgf",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "u8g4si9g4",
+            "_type": "span",
+            "text": "Contamos con el uso de biotrajes de electroestimulaci├│n y sistemas de biofeedback en tiempo real, lo que permite a los asistentes 'visualizar' su activaci├│n muscular. Estos talleres no solo son educativos, sino profundamente transformadores para la carrera de cualquier deportista."
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "h9vhnwugu",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "s8w53lns3",
+            "_type": "span",
+            "text": "'La educaci├│n es el motor del rendimiento. Un deportista que entiende por qu├® se mueve as├¡, es un deportista que no se lesiona.' - Equipo Kinesiol├│gico Dinamik."
+          }
+        ],
+        "style": "blockquote"
+      },
+      {
+        "_key": "0b199mx6n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "hcy8g3mp7",
+            "_type": "span",
+            "text": "├Ünete a nuestro pr├│ximo taller de Fuerza Reactiva y descubre c├│mo mejorar tu potencia de salida de manera segura."
+          }
+        ],
+        "style": "normal"
+      }
+    ],
+    "titulo": "Talleres deportivos y educativos: Potenciando al Atleta"
+  },
+  {
+    "contenido": [
+      {
+        "_key": "twnai1swj",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "4jdwjdvdk",
+            "_type": "span",
+            "text": "Detecci├│n temprana y tecnolog├¡a"
+          }
+        ],
+        "style": "h3"
+      },
+      {
+        "_key": "oxo5t0fh6",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "tyc3aceqq",
+            "_type": "span",
+            "text": "En Dinamik Sport, utilizamos evaluaciones biomec├ínicas de ├║ltima generaci├│n para detectar desbalances antes de que se conviertan en dolor. Nuestras Jornadas de Prevenci├│n est├ín enfocadas tanto en trabajadores con movimientos repetitivos como en entusiastas del deporte."
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "r1vsvq0lf",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "zohaccpmp",
+            "_type": "span",
+            "text": "Durante la jornada, cada participante pasa por una serie de estaciones: evaluaci├│n de la movilidad articular, test de fuerza isom├®trica, y an├ílisis de la marcha por video. Al final, entregamos un reporte detallado con recomendaciones personalizadas de ejercicios y ajustes ergon├│micos."
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "7fm4scfk7",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "3mzmu1oxm",
+            "_type": "span",
+            "text": "Nuestro objetivo es empoderar a las personas para que tomen el control de su salud f├¡sica. No esperes a que el dolor aparezca para visitarnos; la mejor inversi├│n es la prevenci├│n."
+          }
+        ],
+        "style": "normal"
+      }
+    ],
+    "titulo": "Jornadas de Evaluaci├│n y Prevenci├│n: Evita el Quir├│fano"
+  }
+]

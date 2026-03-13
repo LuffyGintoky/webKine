@@ -51,9 +51,35 @@ async function seedContent(filePath: string) {
     let successCount = 0
     let errorCount = 0
 
+    // Función auxiliar para agregar _key a los elementos de un array
+    function addKeys(obj: any): any {
+      if (Array.isArray(obj)) {
+        return obj.map((item) => {
+          if (item && typeof item === 'object') {
+            const newItem = { ...item }
+            if (!newItem._key) {
+              newItem._key = Math.random().toString(36).substring(2, 11)
+            }
+            return addKeys(newItem)
+          }
+          return item
+        })
+      } else if (obj && typeof obj === 'object') {
+        const newObj: any = {}
+        for (const key in obj) {
+          newObj[key] = addKeys(obj[key])
+        }
+        return newObj
+      }
+      return obj
+    }
+
     // Si los documentos tienen _id, podemos usar createOrReplace, si no, create
-    for (const doc of documents) {
+    for (let doc of documents) {
       try {
+        // Aseguramos que los arrays tengan _key
+        doc = addKeys(doc)
+
         if (doc._id) {
           await client.createOrReplace(doc)
           console.log(`✅ ¡Éxito! -> Documento actualizado/creado: ${doc._id} (${doc._type})`)

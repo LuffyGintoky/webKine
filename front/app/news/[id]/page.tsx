@@ -3,6 +3,43 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 
+import { PortableText } from '@portabletext/react';
+
+// Componentes personalizados para el renderizado del PortableText
+const ptComponents = {
+  types: {
+    image: ({ value }: any) => {
+      if (!value?.asset?._ref) return null;
+      return (
+        <div className="relative w-full aspect-video my-8 rounded-lg overflow-hidden">
+          <Image
+            src={urlFor(value).url()}
+            alt={value.alt || 'Imagen de contenido'}
+            fill
+            className="object-cover"
+          />
+        </div>
+      );
+    },
+  },
+  block: {
+    h1: ({ children }: any) => <h1 className="text-3xl font-bold mt-8 mb-4 text-primary">{children}</h1>,
+    h2: ({ children }: any) => <h2 className="text-2xl font-bold mt-8 mb-4 text-primary">{children}</h2>,
+    h3: ({ children }: any) => <h3 className="text-xl font-bold mt-6 mb-3 text-primary">{children}</h3>,
+    h4: ({ children }: any) => <h4 className="text-lg font-bold mt-6 mb-2 text-primary">{children}</h4>,
+    normal: ({ children }: any) => <p className="mb-4 text-foreground/80 leading-relaxed">{children}</p>,
+    blockquote: ({ children }: any) => (
+      <blockquote className="border-l-4 border-primary pl-4 italic my-6 text-foreground/70">
+        {children}
+      </blockquote>
+    ),
+  },
+  list: {
+    bullet: ({ children }: any) => <ul className="list-disc pl-6 mb-4 space-y-2">{children}</ul>,
+    number: ({ children }: any) => <ol className="list-decimal pl-6 mb-4 space-y-2">{children}</ol>,
+  },
+};
+
 export async function generateStaticParams() {
   const query = `*[_type == "noticia" && defined(slug.current)] { slug }`;
   const news = await client.fetch(query);
@@ -68,21 +105,14 @@ export default async function NewsArticle({ params }: { params: Promise<{ id: st
 
             <div className="prose prose-lg dark:prose-invert max-w-none">
               {article.resumen && (
-                <p className="lead text-xl text-muted-foreground mb-8 font-medium">
+                <p className="lead text-xl text-muted-foreground mb-8 font-medium italic border-l-4 border-primary/20 pl-6">
                   {article.resumen}
                 </p>
               )}
               
               {article.contenido && (
-                <div className="mt-8 text-foreground/80 leading-relaxed space-y-4">
-                  {/* Nota: Si "contenido" está en formato PortableText (block), 
-                      necesitarás instalar y usar '@portabletext/react' para renderizarlo correctamente.
-                      Aquí asumimos que es texto o lo mostramos como placeholder. */}
-                  {typeof article.contenido === 'string' ? (
-                     <p>{article.contenido}</p>
-                  ) : (
-                     <p>El contenido detallado de la noticia está disponible aquí.</p>
-                  )}
+                <div className="mt-8">
+                  <PortableText value={article.contenido} components={ptComponents} />
                 </div>
               )}
             </div>
