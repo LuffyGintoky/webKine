@@ -31,13 +31,13 @@ export default async function News() {
               <div key={item._id} className="group relative overflow-hidden rounded-3xl border border-primary/5 bg-card/50 backdrop-blur-sm text-card-foreground shadow-sm transition-all hover:shadow-xl hover:-translate-y-1 flex flex-col md:flex-row gap-0">
                 
                 {/* Imagen de portada con ratio fijo */}
-                <div className="relative w-full md:w-80 h-64 md:h-auto overflow-hidden">
+                <div className="relative w-full md:w-80 h-64 md:h-auto overflow-hidden bg-muted/10">
                   {item.imagenPortada ? (
                     <Image
                       src={urlFor(item.imagenPortada).url()}
                       alt={item.titulo}
                       fill
-                      className="object-cover transition-transform duration-500 group-hover:scale-110"
+                      className="object-contain transition-transform duration-500 group-hover:scale-105"
                     />
                   ) : (
                     <div className="w-full h-full bg-primary/10 flex items-center justify-center">

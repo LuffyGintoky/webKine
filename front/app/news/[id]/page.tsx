@@ -11,12 +11,12 @@ const ptComponents = {
     image: ({ value }: any) => {
       if (!value?.asset?._ref) return null;
       return (
-        <div className="relative w-full aspect-video my-8 rounded-lg overflow-hidden">
+        <div className="relative w-full aspect-video my-8 rounded-lg overflow-hidden bg-muted/10">
           <Image
             src={urlFor(value).url()}
             alt={value.alt || 'Imagen de contenido'}
             fill
-            className="object-cover"
+            className="object-contain"
           />
         </div>
       );
@@ -92,12 +92,12 @@ export default async function NewsArticle({ params }: { params: Promise<{ id: st
             )}
 
             {article.imagenPortada && (
-              <div className="relative w-full aspect-[21/9] rounded-xl overflow-hidden mt-8 mb-12 shadow-sm">
+              <div className="relative w-full aspect-[21/9] rounded-xl overflow-hidden mt-8 mb-12 shadow-sm bg-muted/10">
                 <Image 
                   src={urlFor(article.imagenPortada).url()} 
                   alt={article.titulo}
                   fill
-                  className="object-cover"
+                  className="object-contain"
                   priority
                 />
               </div>
