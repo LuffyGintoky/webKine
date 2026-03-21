@@ -91,26 +91,26 @@ export default async function About() {
            
            <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8">
              {team.map((member) => (
-               <div key={member._id} className="bg-card rounded-2xl border shadow-sm overflow-hidden flex flex-col items-center text-center">
-                 <div className="w-full aspect-[4/5] relative">
+               <div key={member._id} className="bg-card rounded-2xl border shadow-sm p-8 flex flex-col items-center text-center transition-transform hover:-translate-y-1 hover:shadow-md">
+                 <div className="w-40 h-40 sm:w-48 sm:h-48 relative rounded-full overflow-hidden mb-6 shadow-sm border-4 border-background ring-1 ring-muted/50">
                    {member.foto ? (
                      <Image
                        src={urlFor(member.foto).url()}
                        alt={member.foto.alt || member.nombre}
                        fill
-                       className="object-cover"
+                       className="object-cover object-top"
                      />
                    ) : (
                      <div className="w-full h-full bg-muted flex items-center justify-center">
-                       <span className="text-muted-foreground">Sin foto</span>
+                       <span className="text-muted-foreground text-sm">Sin foto</span>
                      </div>
                    )}
                  </div>
-                 <div className="p-6 space-y-2">
+                 <div className="space-y-3 flex-grow">
                    <h3 className="text-xl font-bold">{member.nombre}</h3>
-                   <p className="text-primary font-medium text-sm">{member.cargo}</p>
+                   <p className="text-primary font-semibold text-sm tracking-wide uppercase">{member.cargo}</p>
                    {member.biografia && (
-                     <p className="text-muted-foreground text-sm mt-3">{member.biografia}</p>
+                     <p className="text-muted-foreground text-sm mt-4 leading-relaxed">{member.biografia}</p>
                    )}
                  </div>
                </div>

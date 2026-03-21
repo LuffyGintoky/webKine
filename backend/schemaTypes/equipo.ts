@@ -18,11 +18,6 @@ export const equipoType = defineType({
       validation: (Rule) => Rule.required(),
     }),
     defineField({
-      name: 'biografia',
-      title: 'Biografía (Descripción detallada)',
-      type: 'text',
-    }),
-    defineField({
       name: 'foto',
       title: 'Fotografía',
       type: 'image',
