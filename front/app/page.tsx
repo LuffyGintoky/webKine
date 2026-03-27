@@ -34,7 +34,7 @@ export default function Home() {
             <div className="space-y-6">
               <h2 className="text-4xl md:text-5xl font-extrabold tracking-tight text-white">Cambiando el paradigma de la rehabilitación</h2>
               <p className="text-lg md:text-xl text-gray-400 leading-relaxed">
-                Nacimos el 2024 bajo la visión del kinesiólogo Aldo Paz. Inspirados en modelos de bienestar internacional, integramos comunidad y relajación, alejándonos de la frialdad médica tradicional.
+                Nacimos el 2024 bajo la visión del kinesiólogo Aldo Paz. Inspirados en modelos de bienestar internacional, integramos comunidad y relajación, diferenciándonos de la atención médica tradicional.
               </p>
               <p className="text-lg md:text-xl text-gray-400 leading-relaxed">
                 Hoy somos un centro médico integral comprometido con tu recuperación, logrando tu máximo potencial físico, mental y social.
@@ -123,15 +123,17 @@ export default function Home() {
             <p className="text-xl text-gray-400 leading-relaxed mb-6">
               Desde kinesiología traumatológica hasta reintegro deportivo y psicología deportiva. Un modelo integral de atención.
             </p>
-            <div className="grid grid-cols-2 gap-4 mb-8">
-              <div className="bg-[#111] border border-white/10 p-6 rounded-xl text-center font-bold text-white hover:border-primary transition-colors">Kinesiología</div>
-              <div className="bg-[#111] border border-white/10 p-6 rounded-xl text-center font-bold text-white hover:border-primary transition-colors">Entrenamiento</div>
-              <div className="bg-[#111] border border-white/10 p-6 rounded-xl text-center font-bold text-white hover:border-primary transition-colors">Reintegro</div>
-              <div className="bg-[#111] border border-white/10 p-6 rounded-xl text-center font-bold text-white hover:border-primary transition-colors">Psicología</div>
+            <div className="flex flex-wrap gap-4 mb-8">
+              <div className="flex-1 min-w-[130px] sm:min-w-[150px] bg-[#111] border border-white/10 p-5 rounded-xl text-center font-bold text-white hover:border-primary transition-colors flex items-center justify-center">Kinesiología</div>
+              <div className="flex-1 min-w-[130px] sm:min-w-[150px] bg-[#111] border border-white/10 p-5 rounded-xl text-center font-bold text-white hover:border-primary transition-colors flex items-center justify-center">Entrenamiento</div>
+              <div className="flex-1 min-w-[130px] sm:min-w-[150px] bg-[#111] border border-white/10 p-5 rounded-xl text-center font-bold text-white hover:border-primary transition-colors flex items-center justify-center">Reintegro</div>
+              <div className="flex-1 min-w-[130px] sm:min-w-[150px] bg-[#111] border border-white/10 p-5 rounded-xl text-center font-bold text-white hover:border-primary transition-colors flex items-center justify-center">Psicología</div>
+              <div className="flex-1 min-w-[130px] sm:min-w-[150px] bg-[#111] border border-white/10 p-5 rounded-xl text-center font-bold text-white hover:border-primary transition-colors flex items-center justify-center">Medicina</div>
             </div>
-            <div>
-              <Link href="/services" className="inline-flex h-14 items-center justify-center rounded-md bg-white text-black px-10 font-bold shadow transition-all hover:bg-gray-200">
+            <div className="flex pt-2">
+              <Link href="/services" className="inline-flex h-14 w-full sm:w-auto items-center justify-center rounded-xl bg-white text-black px-10 text-lg font-bold shadow-lg transition-transform duration-300 hover:scale-[1.02] hover:bg-gray-100">
                 Ver Todos los Servicios
+                <svg className="w-5 h-5 ml-2 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" /></svg>
               </Link>
             </div>
           </div>

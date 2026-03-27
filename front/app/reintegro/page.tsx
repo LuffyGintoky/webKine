@@ -13,14 +13,19 @@ export default function Reintegro() {
 
       <section className="py-20">
         <div className="container mx-auto px-4 max-w-5xl text-center space-y-12">
-          <div className="space-y-6">
-            <h2 className="text-4xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-              Compromiso con el Deporte
-            </h2>
-            <p className="text-muted-foreground leading-relaxed text-lg max-w-3xl mx-auto">
-              Desde el centro estamos comprometidos con los deportistas que representan a nuestro país y a la Perla del Norte.
-              Nuestro objetivo es acompañarlos en cada etapa de su preparación y recuperación, asegurando que alcancen su máximo rendimiento de forma segura y efectiva.
-            </p>
+          <div className="grid md:grid-cols-2 gap-12 items-center text-left">
+            <div className="space-y-6">
+              <h2 className="text-4xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
+                Compromiso con el Deporte
+              </h2>
+              <p className="text-muted-foreground leading-relaxed text-lg">
+                Desde el centro estamos comprometidos con los deportistas que representan a nuestro país y a la Perla del Norte.
+                Nuestro objetivo es acompañarlos en cada etapa de su preparación y recuperación, asegurando que alcancen su máximo rendimiento de forma segura y efectiva.
+              </p>
+            </div>
+            <div className="relative h-[350px] rounded-2xl overflow-hidden shadow-xl border border-white/10">
+              <Image src="/images/imagen4.jpg" alt="Reintegro Deportivo" fill className="object-cover" />
+            </div>
           </div>
 
           <div className="grid md:grid-cols-2 gap-8text-left mt-12">
